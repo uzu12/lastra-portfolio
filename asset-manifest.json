@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lastra-portfolio/static/css/main.840ddc60.css",
+    "main.js": "/lastra-portfolio/static/js/main.fb677add.js",
+    "static/js/787.8e9c49c6.chunk.js": "/lastra-portfolio/static/js/787.8e9c49c6.chunk.js",
+    "static/media/cert2.jpg": "/lastra-portfolio/static/media/cert2.dfc96bbfba97b001dcb2.jpg",
+    "static/media/cert1.jpg": "/lastra-portfolio/static/media/cert1.cd62859301f6d8a816ee.jpg",
+    "static/media/me.jpg": "/lastra-portfolio/static/media/me.8994659a12b596e5df30.jpg",
+    "static/media/nemsu_logo.png": "/lastra-portfolio/static/media/nemsu_logo.375c323b4613fc22c2c5.png",
+    "index.html": "/lastra-portfolio/index.html",
+    "main.840ddc60.css.map": "/lastra-portfolio/static/css/main.840ddc60.css.map",
+    "main.fb677add.js.map": "/lastra-portfolio/static/js/main.fb677add.js.map",
+    "787.8e9c49c6.chunk.js.map": "/lastra-portfolio/static/js/787.8e9c49c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840ddc60.css",
+    "static/js/main.fb677add.js"
+  ]
+}
