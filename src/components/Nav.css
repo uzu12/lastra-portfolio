@@ -1,0 +1,27 @@
+.Nav{
+    background-color: rgba(53, 244, 247, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    padding: .7rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    box-shadow: 1px 1px 5px 1px var(--color-primary);
+}
+
+.Nav li{
+    color: var(--color-secondary);
+    list-style: none;
+    padding: .5rem 2rem;
+    cursor: pointer;    
+    border-radius: 5px;
+}
+.Nav li:hover{
+    background-color: var(--color-secondary);
+    color: var(--color-primary);
+}
+.Nav a{
+    margin-left: 1rem;
+}

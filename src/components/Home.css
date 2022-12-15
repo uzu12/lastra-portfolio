@@ -1,0 +1,10 @@
+.Home{
+    padding: 4rem 0;
+}
+.Home img{
+    width: 20rem;
+    height: 20rem;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 1px 1px 5px 1px var(--color-variant);
+}
